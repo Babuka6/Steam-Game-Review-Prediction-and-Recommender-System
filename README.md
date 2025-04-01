@@ -1,1 +1,1 @@
-CSE 158: Recommender Systems and ML Open ended Project. Improved README is coming up. 
+README: Check out the PDF file to see full analysis and project description
